@@ -1,0 +1,50 @@
+.container-nav{
+    background-color: #F0FFF0;
+    position: absolute;
+    width: 1525px;
+    height: 510px;
+    left: 0px;
+    top: 0px;
+}
+.container{
+    padding: 100px;
+}
+
+.button-click{
+    background-image: linear-gradient(to bottom,lightgreen 0%,green 100%);
+    color: whitesmoke;
+    border: none;
+    border-radius: 20px;
+    padding: 6px 25px;
+    cursor: pointer;
+}
+.button-click:hover{
+    color: black;
+    
+}
+.cat1, .cat2, .cat3, .cat4{
+    padding: 20px 30px;
+    border-radius: 10px;
+    background-color: #F0FFF0;
+    width: 200px;
+    height: 310px;
+    
+}
+.cat4:hover{
+    background-image: linear-gradient(to bottom,lightgreen 0%,green 100%);
+    box-shadow: 5px 5px 25px lightgreen;
+}
+.cat1:hover{
+    background-image: linear-gradient(to bottom,lightgreen 0%,green 100%);
+    box-shadow: 5px 5px 25px lightgreen;
+
+}
+.cat2:hover{
+    background-image: linear-gradient(to bottom,lightgreen 0%,green 100%);
+    box-shadow: 5px 5px 25px lightgreen;
+}
+.cat3:hover{
+    background-image: linear-gradient(to bottom,lightgreen 0%,green 100%);
+    box-shadow: 5px 5px 25px lightgreen;
+}
+ 
